@@ -21,4 +21,4 @@
 
 ### И кстати, я обожаю игры, угадайте, что сейчас я прохожу :)
 
-<img height="300" src="C:\Users\tagun\Downloads\game.jpg" title="game" width="500"/>
+<img height="300" src="C:\Users\tagun\Desktop\It'sme\image\game.jpg" title="game" width="500"/>
